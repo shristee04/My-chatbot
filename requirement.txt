@@ -1,5 +1,5 @@
 streamlit
-pypdf
+pypdf==3.17.4
 langchain
 langchain-community
 langchain-text-splitters
